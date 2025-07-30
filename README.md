@@ -1,4 +1,49 @@
-# Green_and_Young_Interiors
+# Green and Young Interiors 🌿🏠
+
+> A modern, responsive website developed for **Green and Young Interiors** to enhance their online presence and attract targeted clients through a sleek digital platform.
+
+🔗 **Live Website:** [https://greenandyoung.in](https://greenandyoung.in)
+
+---
+
+## 📌 Project Overview
+
+This project was developed as a **client-based website** for *Green and Young Interiors*, a firm focused on interior design services. The goal was to craft an elegant and responsive website that reflects the brand's identity and allows them to connect with potential customers more effectively.
+
+The website highlights their services, past projects, design philosophy, and includes a contact form for inquiries — all optimized for a seamless user experience across devices.
+
+---
+
+## 🚀 Tech Stack
+
+- **Frontend:** HTML, CSS, JavaScript, React.js, Tailwind CSS  
+- **Backend:** PHP (for contact form handling)  
+- **Deployment:** Hosted on **Hostinger**  
+
+---
+
+## 💡 Features
+
+- ✅ Fully responsive layout for mobile, tablet, and desktop
+- ✅ Smooth animations and transitions
+- ✅ Structured sections: Home, About, Services, Portfolio, Contact
+- ✅ Working contact form (using PHP backend)
+- ✅ SEO-friendly meta tags and clean code structure
+- ✅ Fast load time with optimized assets
+
+---
+
+📦 Green_and_Young_Interiors
+├── public/
+│   └── assets/
+├── src/
+│   ├── components/
+│   ├── pages/
+│   └── App.jsx
+├── contact.php
+├── tailwind.config.js
+├── index.html
+└── README.md
 
 
 
